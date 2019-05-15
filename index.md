@@ -3,6 +3,8 @@ website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
 
+Added by Tom.
+
 For me, the painful aspects of making a website are
 
 - Working with html and css
