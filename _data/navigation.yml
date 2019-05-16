@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Turtle"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: "Graham's number"
+    url: https://googology.wikia.org/wiki/Graham%27s_number
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
