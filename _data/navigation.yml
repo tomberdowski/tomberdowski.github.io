@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Lizard"
+  - title: "Back"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
