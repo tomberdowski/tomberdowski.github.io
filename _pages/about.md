@@ -5,4 +5,4 @@ permalink: /about/
 
 Just to write something down.
 
-$$y=x+1$$
+abc
