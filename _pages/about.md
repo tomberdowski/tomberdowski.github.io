@@ -5,4 +5,6 @@ permalink: /about/
 
 Just to write something down.
 
-abcdef
+abcdefghi
+
+$$y=x$$
