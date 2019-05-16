@@ -2,11 +2,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
   - title: "Graham's number"
     url: https://googology.wikia.org/wiki/Graham%27s_number
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
