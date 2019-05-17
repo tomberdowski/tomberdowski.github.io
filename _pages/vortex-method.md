@@ -2,6 +2,7 @@
 layout: archive
 permalink: /vortex-method/
 title: "Vortex Method"
+url: "https://www.nu.nl/"
 ---
 
 {% include base_path %}
