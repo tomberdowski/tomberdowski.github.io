@@ -7,6 +7,6 @@ permalink: /about/
 
 Just to write something down.
 
-abcdefghijkl
+abc
 
-$$y=x$$
+$$y = \left[ {\begin{array}{*{20}{c}}a&b\\c&d\end{array}} \right]$$
