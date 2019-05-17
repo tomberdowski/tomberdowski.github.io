@@ -2,8 +2,6 @@
 layout: archive
 permalink: /vortex-method/
 title: "Vortex Method"
-author_profile: true
-footer: false
 ---
 
 {% include base_path %}
@@ -17,4 +15,4 @@ footer: false
   {% endfor %}
 {% endfor %}
 
-Something more he
+Something more he duh
