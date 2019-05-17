@@ -2,6 +2,7 @@
 layout: archive
 permalink: /vortex-method/
 title: "Vortex Method"
+footer: true
 ---
 
 {% include base_path %}
